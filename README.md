@@ -9,7 +9,7 @@
 
 ##### PART 2: Use such data to curate a beauty skincare regime only using products in yesstyle website. MVP will be limited. Will expand on more later. 
 
-##### APIS: OPENAI: will feed json data and fine tune in the backend how customize a skincare regime
+##### APIS: ...
 
 # FRONT END WILL TAKE TIME, I WILL MAKE IT TO BE CUTE AND KAWAII >.< For now, UI will look very rubbish until I push final iteration. 
 
