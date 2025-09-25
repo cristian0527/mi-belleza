@@ -11,6 +11,6 @@
 
 ##### APIS: OPENAI: will feed json data and fine tune in the backend how customize a skincare regime
 
-##### FRONT END WILL TAKE TIME, I WILL MAKE IT TO BE CUTE AND KAWAII >.<
+# FRONT END WILL TAKE TIME, I WILL MAKE IT TO BE CUTE AND KAWAII >.< For now, UI will look very rubbish until I push final iteration. 
 
 
