@@ -11,6 +11,6 @@
 
 ##### APIS: ...
 
-# FRONT END WILL TAKE TIME, I WILL MAKE IT TO BE CUTE AND KAWAII >.< For now, UI will look very rubbish until I push final iteration. 
+##### FRONT END WILL TAKE TIME, I WILL MAKE IT TO BE CUTE AND KAWAII >.< For now, UI will look very rubbish until I push final iteration. 
 
 
